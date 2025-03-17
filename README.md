@@ -64,9 +64,3 @@ Copiar
 Editar
 python questao1.py
 Repita o processo para as outras questões, executando os arquivos correspondentes.
-
-Contribuições
-Se você desejar contribuir com este repositório, sinta-se à vontade para enviar um pull request.
-
-Licença
-Este repositório está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
